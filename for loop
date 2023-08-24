@@ -12,6 +12,6 @@ import java.util.*;
               {
                   sum=sum+i;
               }
-              System.out.println("Sum of first"+n+"natural numbers is "+sum);
+              System.out.println("Sum of first "+n+"natural numbers is "+sum);
           }
        }
